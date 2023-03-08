@@ -1,3 +1,4 @@
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rampart+One&pause=1000&color=D2F700&width=435&lines=WELCOME+TO+MY+GITHUB+PROFILE" alt="Typing SVG" /></a></h1>
 <h1 align="center">Hi 👋, I'm Steven Nevile</h1>
 <h3 align="center">I'm a student majoring in Information Systems 💻 from Multi Data Palembang University.</h3>
 <div align="center"> 
